@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1779950817,
+      "filename": "lineage-23.2-2026052806-RELEASE-INCREMENTAL-oscar.zip",
+      "id": "c6aa7e950fa96e037f98cd59f12784f9fe0bfee7dfd2141a479d5e44fa0430fb",
+      "romtype": "RELEASE",
+      "size": 5635487,
+      "url": "https://github.com/Hackneyed-releases/oscar/releases/download/2026052806/lineage-23.2-2026052806-RELEASE-INCREMENTAL-oscar.zip",
+      "version": "23.2"
+    }
+  ]
+}
