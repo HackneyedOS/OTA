@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1780758082,
+      "filename": "lineage-23.2-2026060615-RELEASE-INCREMENTAL-benz.zip",
+      "id": "2b1ccdce8d73d993568dfbf459a61eca6e51f9a3732b7bb48ef65829c3313833",
+      "romtype": "RELEASE",
+      "size": 28581818,
+      "url": "https://github.com/Hackneyed-releases/benz/releases/download/2026060615/lineage-23.2-2026060615-RELEASE-INCREMENTAL-benz.zip",
+      "version": "23.2"
+    }
+  ]
+}
