@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1781020684,
+      "filename": "lineage-23.2-20260609-RELEASE-fogos.zip",
+      "id": "322ce8089b44ff8ef2e72885c05ed6649846059d80499ac2f2d351ecc54728eb",
+      "romtype": "RELEASE",
+      "size": 1251923326,
+      "url": "https://github.com/Hackneyed-releases/fogos/releases/download/2026060915/lineage-23.2-20260609-RELEASE-fogos.zip",
+      "version": "23.2"
+    }
+  ]
+}
