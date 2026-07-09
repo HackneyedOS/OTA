@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1782750664,
+    "datetime": 1783535864,
     "files": [
       {
-        "filename": "lineage-23.2-20260629-RELEASE-oscar.zip",
-        "os_patch_level": "2026-06-01",
+        "filename": "lineage-23.2-20260708-RELEASE-oscar.zip",
+        "os_patch_level": "2026-07-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4659:167907,payload.bin:4659:1760744887,payload_properties.txt:1760749604:156,apex_info.pb:2192:1279,care_map.pb:3518:1094,metadata:69:701,metadata.pb:838:1306                        ",
-        "sha256": "0f021bfb6c9a16a01aa4c0d07430c7bf6e8ae46175088d917aec6568bda2a5f5",
-        "size": 1760753033,
-        "url": "https://github.com/Hackneyed-releases/oscar/releases/download/2026062916/lineage-23.2-20260629-RELEASE-oscar.zip"
+        "ota_property_files": "payload_metadata.bin:4659:167964,payload.bin:4659:1761679242,payload_properties.txt:1761683959:156,apex_info.pb:2192:1279,care_map.pb:3518:1094,metadata:69:701,metadata.pb:838:1306                        ",
+        "sha256": "c463ca126c3bd31cc24ed422a55a70484fdb87322d575e769c6b7f6c6573149e",
+        "size": 1761687388,
+        "url": "https://github.com/Hackneyed-releases/oscar/releases/download/2026070818/lineage-23.2-20260708-RELEASE-oscar.zip"
       }
     ],
     "type": "RELEASE",
