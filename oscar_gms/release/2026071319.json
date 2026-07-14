@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1783969483,
+    "files": [
+      {
+        "filename": "lineage-23.2-2026071319-RELEASE-oscar.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4381:171199,payload.bin:4381:2570694753,payload_properties.txt:2570699192:156,apex_info.pb:2188:1279,care_map.pb:3514:820,metadata:69:699,metadata.pb:836:1304                        ",
+        "sha256": "0501c1581caf5abc1dc86f034b3384359b249f28b3cff52fc5a1f8886b56a1fd",
+        "size": 2570702624,
+        "url": "https://dl.hackneyed.work.gd/oscar/lineage/23/2026071319/lineage-23.2-2026071319-RELEASE-oscar.zip"
+      }
+    ],
+    "type": "RELEASE",
+    "version": "23.2"
+  }
+]
