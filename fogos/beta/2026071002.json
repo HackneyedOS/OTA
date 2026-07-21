@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1784439828,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260719-RELEASE-fogos.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4181:137666,payload.bin:4181:1254276495,payload_properties.txt:1254280734:156,apex_info.pb:1964:1309,care_map.pb:3320:814,metadata:69:677,metadata.pb:814:1102                        ",
+        "sha256": "d2deba4e615abb0480213d776ac648405b927596e66230bca175f4dd2a0a7fef",
+        "size": 1254284163,
+        "url": "https://github.com/Hackneyed-releases/fogos/releases/download/20260719/lineage-23.2-20260719-RELEASE-fogos.zip"
+      }
+    ],
+    "type": "RELEASE",
+    "version": "23.2"
+  }
+]
