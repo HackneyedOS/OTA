@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1785408337,
+    "datetime": 1785443707,
     "files": [
       {
         "filename": "lineage-23.2-20260730-RELEASE-kiev.zip",
         "os_patch_level": "2026-07-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4497:132587,payload.bin:4497:1202381988,payload_properties.txt:1202386543:156,apex_info.pb:2061:1279,care_map.pb:3387:1063,metadata:69:677,metadata.pb:814:1199                        ",
-        "sha256": "8cf1e5c5323b45ed5477085b17041563aead833362c39c2cac54eb397d65f04b",
-        "size": 1202389972,
-        "url": "https://github.com/Hackneyed-releases/kiev/releases/download/2026073010/lineage-23.2-20260730-RELEASE-kiev.zip"
+        "ota_property_files": "payload_metadata.bin:4497:132587,payload.bin:4497:1202384816,payload_properties.txt:1202389371:156,apex_info.pb:2061:1279,care_map.pb:3387:1063,metadata:69:677,metadata.pb:814:1199                        ",
+        "sha256": "037446355850f39f9bcc8fa52ade0e4f6afe23ece2fef26260640040132e896e",
+        "size": 1202392800,
+        "url": "https://github.com/Hackneyed-releases/kiev/releases/download/2026073020/lineage-23.2-20260730-RELEASE-kiev.zip"
       }
     ],
     "type": "RELEASE",
