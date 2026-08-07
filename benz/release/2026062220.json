@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1782160342,
-      "filename": "lineage-23.2-20260622-RELEASE-benz.zip",
-      "id": "8854215be8814a1d6aad5e4a64d652433a4ef8369b1368bb66bb9234ad1343e9",
+      "datetime": 1786101902,
+      "filename": "lineage-23.2-20260807-RELEASE-benz.zip",
+      "id": "521b96353e9001cdd025d0a418f3fe6cbb6d75df16edef592dd6833934cdb64c",
       "romtype": "RELEASE",
-      "size": 2319667208,
-      "url": "https://dl.hackneyed.work.gd/benz/lineage/23/2026062220/lineage-23.2-20260622-RELEASE-benz.zip",
+      "size": 2319296558,
+      "url": "https://dl.hackneyed.work.gd/benz/lineage/23/2026080711/lineage-23.2-20260807-RELEASE-benz.zip",
       "version": "23.2"
     }
   ]

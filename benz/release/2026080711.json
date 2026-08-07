@@ -1,0 +1,19 @@
+[
+  {
+    "datetime": 1786101902,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260807-RELEASE-benz.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:5047:190592,payload.bin:5047:2319288024,payload_properties.txt:2319293129:156,apex_info.pb:2375:1279,care_map.pb:3701:1299,metadata:69:699,metadata.pb:836:1491                        ",
+        "sha256": "521b96353e9001cdd025d0a418f3fe6cbb6d75df16edef592dd6833934cdb64c",
+        "size": 2319296558,
+        "url": "https://dl.hackneyed.work.gd/benz/lineage/23/2026080711/lineage-23.2-20260807-RELEASE-benz.zip"
+      }
+    ],
+    "type": "RELEASE",
+    "version": "23.2"
+  }
+]
+
