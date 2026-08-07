@@ -1,0 +1,19 @@
+[
+  {
+    "datetime": 1786069844,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260807-RELEASE-luigi.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4705:169220,payload.bin:4705:1803393580,payload_properties.txt:1803398343:156,apex_info.pb:2201:1279,care_map.pb:3527:1131,metadata:69:694,metadata.pb:831:1322                        ",
+        "sha256": "be672d1f697c73b6d951febf9263e649d51a388eb1935b3daa9cd2707e5c0729",
+        "size": 1803401772,
+        "url": "https://github.com/Hackneyed-releases/luigi/releases/download/2026080702/lineage-23.2-20260807-RELEASE-luigi.zip"
+      }
+    ],
+    "type": "RELEASE",
+    "version": "23.2"
+  }
+]
+
